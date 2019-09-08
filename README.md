@@ -1,5 +1,12 @@
 # Cooking with Python
 
+A fork of the Chef interpreter in python with multiple fixes to support behavior
+that is as close to [tio.run](https://tio.run) as possible.
+
+Adapted for a competition, Blackbox 2019 (IIT Kanpur).
+
+## Original Work
+
 ## About
 
 ### What is this?
